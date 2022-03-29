@@ -1,0 +1,12 @@
+package com.company;
+
+public class Task3Tester {
+
+    public static void main(String[] args) {
+        // new Task3();
+        new Task3("Haha");
+        new Task3(10.2);
+        new Task3(true);
+    }
+    }
+
